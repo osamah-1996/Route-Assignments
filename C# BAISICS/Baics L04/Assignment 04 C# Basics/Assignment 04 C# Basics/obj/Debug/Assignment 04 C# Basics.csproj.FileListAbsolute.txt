@@ -1,0 +1,7 @@
+C:\Users\Osama\OneDrive\Desktop\Route Assignemnt Submmition\C# BAISICS\Baics L04\Assignment 04 C# Basics\Assignment 04 C# Basics\bin\Debug\Assignment 04 C# Basics.exe.config
+C:\Users\Osama\OneDrive\Desktop\Route Assignemnt Submmition\C# BAISICS\Baics L04\Assignment 04 C# Basics\Assignment 04 C# Basics\bin\Debug\Assignment 04 C# Basics.exe
+C:\Users\Osama\OneDrive\Desktop\Route Assignemnt Submmition\C# BAISICS\Baics L04\Assignment 04 C# Basics\Assignment 04 C# Basics\bin\Debug\Assignment 04 C# Basics.pdb
+C:\Users\Osama\OneDrive\Desktop\Route Assignemnt Submmition\C# BAISICS\Baics L04\Assignment 04 C# Basics\Assignment 04 C# Basics\obj\Debug\Assignment 04 C# Basics.csproj.AssemblyReference.cache
+C:\Users\Osama\OneDrive\Desktop\Route Assignemnt Submmition\C# BAISICS\Baics L04\Assignment 04 C# Basics\Assignment 04 C# Basics\obj\Debug\Assignment 04 C# Basics.csproj.CoreCompileInputs.cache
+C:\Users\Osama\OneDrive\Desktop\Route Assignemnt Submmition\C# BAISICS\Baics L04\Assignment 04 C# Basics\Assignment 04 C# Basics\obj\Debug\Assignment 04 C# Basics.exe
+C:\Users\Osama\OneDrive\Desktop\Route Assignemnt Submmition\C# BAISICS\Baics L04\Assignment 04 C# Basics\Assignment 04 C# Basics\obj\Debug\Assignment 04 C# Basics.pdb
