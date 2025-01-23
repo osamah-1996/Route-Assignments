@@ -1,0 +1,7 @@
+C:\Users\Osama\OneDrive\Desktop\OOP Assignement 01 Enum\OOP Assignement 01\bin\Debug\OOP Assignement 01.exe.config
+C:\Users\Osama\OneDrive\Desktop\OOP Assignement 01 Enum\OOP Assignement 01\bin\Debug\OOP Assignement 01.exe
+C:\Users\Osama\OneDrive\Desktop\OOP Assignement 01 Enum\OOP Assignement 01\bin\Debug\OOP Assignement 01.pdb
+C:\Users\Osama\OneDrive\Desktop\OOP Assignement 01 Enum\OOP Assignement 01\obj\Debug\OOP Assignement 01.csproj.AssemblyReference.cache
+C:\Users\Osama\OneDrive\Desktop\OOP Assignement 01 Enum\OOP Assignement 01\obj\Debug\OOP Assignement 01.csproj.CoreCompileInputs.cache
+C:\Users\Osama\OneDrive\Desktop\OOP Assignement 01 Enum\OOP Assignement 01\obj\Debug\OOP Assignement 01.exe
+C:\Users\Osama\OneDrive\Desktop\OOP Assignement 01 Enum\OOP Assignement 01\obj\Debug\OOP Assignement 01.pdb

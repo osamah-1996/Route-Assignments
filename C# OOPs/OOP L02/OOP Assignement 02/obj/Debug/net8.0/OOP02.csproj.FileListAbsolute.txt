@@ -1,0 +1,14 @@
+E:\route\mentor work\OOP02\OOP02\bin\Debug\net8.0\OOP02.exe
+E:\route\mentor work\OOP02\OOP02\bin\Debug\net8.0\OOP02.deps.json
+E:\route\mentor work\OOP02\OOP02\bin\Debug\net8.0\OOP02.runtimeconfig.json
+E:\route\mentor work\OOP02\OOP02\bin\Debug\net8.0\OOP02.dll
+E:\route\mentor work\OOP02\OOP02\bin\Debug\net8.0\OOP02.pdb
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\OOP02.GeneratedMSBuildEditorConfig.editorconfig
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\OOP02.AssemblyInfoInputs.cache
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\OOP02.AssemblyInfo.cs
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\OOP02.csproj.CoreCompileInputs.cache
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\OOP02.dll
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\refint\OOP02.dll
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\OOP02.pdb
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\OOP02.genruntimeconfig.cache
+E:\route\mentor work\OOP02\OOP02\obj\Debug\net8.0\ref\OOP02.dll
