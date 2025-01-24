@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\OOP L04\\Assign04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\derivedclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\derivedclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\derivedclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\derivedclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\classes\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\classes\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|d:\\downloads\\oop l04\\assign04\\assign04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1E1349-C0CD-4F9F-9C6C-4B835FE204E6}|Assign04\\Assign04.csproj|solutionrelative:assign04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\Rectangle.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Assign04\\Classes\\Rectangle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:21:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\Manager.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Manager.cs",
+              "RelativeToolTip": "Assign04\\Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:21:21.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\Employee.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Employee.cs",
+              "RelativeToolTip": "Assign04\\Classes\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:21:17.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DerivedClass2.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\DerivedClass2.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\DerivedClass2.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\DerivedClass2.cs",
+              "RelativeToolTip": "Assign04\\Classes\\DerivedClass2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:21:15.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DerivedClass1.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\DerivedClass1.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\DerivedClass1.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\DerivedClass1.cs",
+              "RelativeToolTip": "Assign04\\Classes\\DerivedClass1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:21:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Complex.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\Complex.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Complex.cs",
+              "RelativeToolTip": "Assign04\\Classes\\Complex.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:20:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Calculator.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\Calculator.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Calculator.cs",
+              "RelativeToolTip": "Assign04\\Classes\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:20:37.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\BaseClass.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\BaseClass.cs",
+              "RelativeToolTip": "Assign04\\Classes\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:20:33.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Duration.cs",
+              "RelativeDocumentMoniker": "Assign04\\Classes\\Duration.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Classes\\Duration.cs",
+              "RelativeToolTip": "Assign04\\Classes\\Duration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:24:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Program.cs",
+              "RelativeDocumentMoniker": "Assign04\\Program.cs",
+              "ToolTip": "D:\\Downloads\\OOP L04\\Assign04\\Assign04\\Program.cs",
+              "RelativeToolTip": "Assign04\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T22:30:28.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
