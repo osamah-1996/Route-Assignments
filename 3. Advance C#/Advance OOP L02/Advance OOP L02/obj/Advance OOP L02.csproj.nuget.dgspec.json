@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj": {}
+    "D:\\Route Assignemnt Submmition\\3. Advance C#\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj": {
+    "D:\\Route Assignemnt Submmition\\3. Advance C#\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj",
+        "projectUniqueName": "D:\\Route Assignemnt Submmition\\3. Advance C#\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj",
         "projectName": "Advance OOP L02",
-        "projectPath": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj",
+        "projectPath": "D:\\Route Assignemnt Submmition\\3. Advance C#\\Advance OOP L02\\Advance OOP L02\\Advance OOP L02.csproj",
         "packagesPath": "C:\\Users\\Osama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Osama\\OneDrive\\Desktop\\Advance OOP L02\\Advance OOP L02\\obj\\",
+        "outputPath": "D:\\Route Assignemnt Submmition\\3. Advance C#\\Advance OOP L02\\Advance OOP L02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

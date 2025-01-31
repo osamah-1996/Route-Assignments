@@ -86,6 +86,7 @@ namespace Advance_OOP_L02
         }
         #endregion
 
+        #region MyRegion
         public static bool AreBalanced(string exp)
         {
             Stack<char> stack = new Stack<char>();
@@ -105,7 +106,8 @@ namespace Advance_OOP_L02
 
             }
             return stack.Count == 0 ? true : false;
-        }
+        } 
+        #endregion
 
 
 

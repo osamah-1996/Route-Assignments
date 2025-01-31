@@ -1,0 +1,14 @@
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\bin\Debug\net9.0\C# OOP L05.exe
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\bin\Debug\net9.0\C# OOP L05.deps.json
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\bin\Debug\net9.0\C# OOP L05.runtimeconfig.json
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\bin\Debug\net9.0\C# OOP L05.dll
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\bin\Debug\net9.0\C# OOP L05.pdb
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\C# OOP L05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\C# OOP L05.AssemblyInfoInputs.cache
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\C# OOP L05.AssemblyInfo.cs
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\C# OOP L05.csproj.CoreCompileInputs.cache
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\C# OOP L05.dll
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\refint\C# OOP L05.dll
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\C# OOP L05.pdb
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\C# OOP L05.genruntimeconfig.cache
+C:\Users\Osama\OneDrive\Desktop\C# OOP L05\C# OOP L05\obj\Debug\net9.0\ref\C# OOP L05.dll
