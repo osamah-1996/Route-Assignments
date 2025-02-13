@@ -87,7 +87,7 @@ namespace LinQ_L01
             //LINQ - Aggregate Operators
 
             #region 1. Uses Count to get the number of odd numbers in the array
-            int [] Arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+            int[] Arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
             //Method 1: Using the Fluent Syntax
             //var Results = Arr.Where(p => p % 2 == 1).Count();
             //Console.WriteLine($"Number of Odd Element is {Results}");
@@ -281,39 +281,97 @@ namespace LinQ_L01
             #endregion
             //LINQ – Transformation Operators
             #region 1. Return a sequence of just the names of a list of products.
-
+            //var Results = from produc in ProductsList
+            //              select new
+            //              {
+            //                  ProductName = produc.ProductName,
+            //              };
+            //foreach (var Result in Results)
+            //{
+            //    Console.WriteLine(Result);
+            //}
 
             #endregion
             #region 2. Produce a sequence of the uppercase and lowercase versions of each word in the original array (Anonymous Types).
-            String[] words = { "aPPLE", "BlUeBeRrY", "cHeRry" };
+            //String[] words = { "aPPLE", "BlUeBeRrY", "cHeRry" };
+            //var Results = words.Select( p => new {
+            //    Upper = p.ToUpper(),
+            //    Lower = p.ToLower(),
+            //});
+            //foreach (var results in Results)
+            //{
+            //    Console.WriteLine(results);
 
+            //}
             #endregion
             #region 3. Produce a sequence containing some properties of Products, including UnitPrice which is renamed to Price in the resulting type.
+            //var Results = ProductsList.Select(p => new
+            //{
+            //    ProductId = p.ProductID,
+            //    ProductName = p.ProductName,
+            //    Price       = p.UnitPrice
+            //});
+            //foreach (var Result in Results)
+            //{
+            //    Console.WriteLine(Result);
+            //}
 
 
+            #region egion 4. Determine if the value of int in an array matches their 
+            //int[] Arre = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+
+            //var Result = Arre.Select((value, index) => new
+            //{
+            //    Index = index,
+            //    Value = value,
+            //    Matches = value == index
+            //});
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine($"Index: {item.Index}, Value: {item.Value}, Matches: {item.Matches}");
+            //}
             #endregion
-            #region 4. Determine if the value of int in an array matches their position in the array.
-            int[] Arre = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
 
-
-            #endregion
             #region 5. Returns all pairs of numbers from both arrays such that the number from numbersA is less than the number from numbersB.
-            int[] numbersA = { 0, 2, 4, 5, 6, 8, 9 };
-            int[] numbersB = { 1, 3, 5, 7, 8 };
+            //int[] numbersA = { 0, 2, 4, 5, 6, 8, 9 };
+            //int[] numbersB = { 1, 3, 5, 7, 8 };
+
+            //var pairs = from a in numbersA
+            //            from b in numbersB
+            //            where a < b
+            //            select new { A = a, B = b };
+
+            //foreach (var pair in pairs)
+            //{
+            //    Console.WriteLine($"({pair.A}, {pair.B})");
+            //}
+
+            #endregion
 
 
             #endregion
 
             #region 6. Select all orders where the order total is less than 500.00.
-
+            // var Results = from product in ProductsList
+            //               where product.UnitPrice < 500
+            //               select product;
+            //foreach (var Result in Results)
+            // {
+            //     Console.WriteLine(Result);
+            // }
 
             #endregion
             #region 7. Select all orders where the order was made in 1998 or later.
-
+            //var Results = from P in CustomersList
+            //              where P.orderdate >= 1998
+            //              select p;
+            //foreach (var Result in Results)
+            //{
+            //    Console.WriteLine(Result);
+            //}
 
             #endregion
 
-
-        }
-    }
+        } }
 }
