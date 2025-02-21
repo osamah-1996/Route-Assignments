@@ -1,0 +1,29 @@
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.exe
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.deps.json
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.runtimeconfig.json
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.dll
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.pdb
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.csproj.AssemblyReference.cache
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.AssemblyInfoInputs.cache
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.AssemblyInfo.cs
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.csproj.CoreCompileInputs.cache
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.dll
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\refint\WsLinqAssignment.dll
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.pdb
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.genruntimeconfig.cache
+D:\Course\Development\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\ref\WsLinqAssignment.dll
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.exe
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.deps.json
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.runtimeconfig.json
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.dll
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\bin\Debug\net6.0\WsLinqAssignment.pdb
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.AssemblyInfoInputs.cache
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.AssemblyInfo.cs
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.csproj.CoreCompileInputs.cache
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.dll
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\refint\WsLinqAssignment.dll
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.pdb
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\WsLinqAssignment.genruntimeconfig.cache
+C:\D\Route\BackEnd\Workshop\Mohammed Gamal_\06 LINQ\WsLinqAssignment\WsLinqAssignment\obj\Debug\net6.0\ref\WsLinqAssignment.dll
