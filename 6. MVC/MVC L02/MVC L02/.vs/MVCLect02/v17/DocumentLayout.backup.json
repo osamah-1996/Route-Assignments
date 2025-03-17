@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alshwishabdulrahman\\Desktop\\MVC\\MVCLect02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36119030-DF4E-44BB-B27E-3823E7E1369B}|mvclect02\\mvclect02.csproj|c:\\users\\alshwishabdulrahman\\desktop\\mvc\\mvclect02\\mvclect02\\views\\shared\\_loginregisterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36119030-DF4E-44BB-B27E-3823E7E1369B}|mvclect02\\mvclect02.csproj|solutionrelative:mvclect02\\views\\shared\\_loginregisterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36119030-DF4E-44BB-B27E-3823E7E1369B}|mvclect02\\mvclect02.csproj|c:\\users\\alshwishabdulrahman\\desktop\\mvc\\mvclect02\\mvclect02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36119030-DF4E-44BB-B27E-3823E7E1369B}|mvclect02\\mvclect02.csproj|solutionrelative:mvclect02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36119030-DF4E-44BB-B27E-3823E7E1369B}|mvclect02\\mvclect02.csproj|c:\\users\\alshwishabdulrahman\\desktop\\mvc\\mvclect02\\mvclect02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36119030-DF4E-44BB-B27E-3823E7E1369B}|mvclect02\\mvclect02.csproj|solutionrelative:mvclect02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginRegisterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alshwishabdulrahman\\Desktop\\MVC\\MVCLect02\\mvclect02\\Views\\Shared\\_LoginRegisterLayout.cshtml",
+              "RelativeDocumentMoniker": "mvclect02\\Views\\Shared\\_LoginRegisterLayout.cshtml",
+              "ToolTip": "C:\\Users\\alshwishabdulrahman\\Desktop\\MVC\\MVCLect02\\mvclect02\\Views\\Shared\\_LoginRegisterLayout.cshtml*",
+              "RelativeToolTip": "mvclect02\\Views\\Shared\\_LoginRegisterLayout.cshtml*",
+              "ViewState": "AgIAAAcAAABAZ2ZmZuYcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T19:49:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alshwishabdulrahman\\Desktop\\MVC\\MVCLect02\\mvclect02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvclect02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alshwishabdulrahman\\Desktop\\MVC\\MVCLect02\\mvclect02\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "mvclect02\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T19:29:15.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alshwishabdulrahman\\Desktop\\MVC\\MVCLect02\\mvclect02\\Program.cs",
+              "RelativeDocumentMoniker": "mvclect02\\Program.cs",
+              "ToolTip": "C:\\Users\\alshwishabdulrahman\\Desktop\\MVC\\MVCLect02\\mvclect02\\Program.cs",
+              "RelativeToolTip": "mvclect02\\Program.cs",
+              "ViewState": "AgIAABkAAAAAMzMzMzP3vyQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:18:01.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
